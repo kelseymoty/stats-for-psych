@@ -1,0 +1,1 @@
+This book supports the class: Statistics for the Behavioral Sciences. 
