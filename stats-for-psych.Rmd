@@ -164,19 +164,19 @@ If there is something in particular you would like covered in this class (that f
 +------------+---------------------------------------------+-----------------------------------------+-------------------------+
 | **Week 2** |                                             |                                         |                         |
 +------------+---------------------------------------------+-----------------------------------------+-------------------------+
-| July 12    | Finishing up intro to Inferential Stats     | Data: Items & Variables                 |[Data organization](http://gureckislab.org/courses/fall20/labincp/chapters/05/00-data.html#data-organization-tidy-and-wide-formats)                         |
+| July 12    | Finishing up intro to Inferential Stats     | Data: Items & Variables                 |[Long vs wide data](https://en.wikipedia.org/wiki/Wide_and_narrow_data)                         |
 +------------+---------------------------------------------+-----------------------------------------+-------------------------+
 | July 13    | Data: Data Types                            | Intro to JASP                           |[Scales of measurement](https://learningstatisticswithr.com/book/studydesign.html#scales) / [Intro to JASP](https://tomfaulkenberry.github.io/JASPbook/chapters/chapter3.pdf)                         |
 +------------+---------------------------------------------+-----------------------------------------+-------------------------+
-| July 14    | Data: Outliers                              | Intro to R                              |[Intro to R](https://learningstatisticswithr.com/book/introR.html)                         |
+| July 14    | Data: Outliers                              | Intro to R                              |[Outliers](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1139&context=pare) / [Intro to R](https://learningstatisticswithr.com/book/introR.html)                         |
 +------------+---------------------------------------------+-----------------------------------------+-------------------------+
 | **Week 3** |                                             |                                         |                         |
 +------------+---------------------------------------------+-----------------------------------------+-------------------------+
-| July 19    | Descriptives: Central Tendency & Dispersion | Descriptives: Plots 1                   |                         |
+| July 19    | Descriptives: Central Tendency & Dispersion | Descriptives: Plots 1                   |[Central tendency](https://learningstatisticswithr.com/book/descriptives.html#centraltendency) / [Why look at data?](https://socvis.co/lookatdata.html#lookatdata)                         |
 +------------+---------------------------------------------+-----------------------------------------+-------------------------+
-| July 20    | Descriptives: Relation                      | Descriptives: Plots 2                   |                         |
+| July 20    | Descriptives: Relation                      | Descriptives: Plots 2                   |[Variability](https://learningstatisticswithr.com/book/descriptives.html#var) / [Plots](https://learningstatisticswithr.com/book/graphics.html)                         |
 +------------+---------------------------------------------+-----------------------------------------+-------------------------+
-| July 22    | Inferential: Samples & Populations          | Inferential: Tests Review               |                         |
+| July 22    | Inferential: Samples & Populations          | Inferential: Tests Review               |[Samples and populations: See Chap 10](https://learningstatisticswithr.com/lsr-0.6.pdf)                         |
 +------------+---------------------------------------------+-----------------------------------------+-------------------------+
 | **Week 4** |                                             |                                         |                         |
 +------------+---------------------------------------------+-----------------------------------------+-------------------------+
