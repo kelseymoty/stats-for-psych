@@ -164,11 +164,11 @@ If there is something in particular you would like covered in this class (that f
 +------------+---------------------------------------------+-----------------------------------------+-------------------------+
 | **Week 2** |                                             |                                         |                         |
 +------------+---------------------------------------------+-----------------------------------------+-------------------------+
-| July 12    | Finishing up intro to Inferential Stats     | Data: Items & Variables                 |                         |
+| July 12    | Finishing up intro to Inferential Stats     | Data: Items & Variables                 |[Data organization](http://gureckislab.org/courses/fall20/labincp/chapters/05/00-data.html#data-organization-tidy-and-wide-formats)                         |
 +------------+---------------------------------------------+-----------------------------------------+-------------------------+
-| July 13    | Data: Data Types                            | Intro to JASP                           |                         |
+| July 13    | Data: Data Types                            | Intro to JASP                           |[Scales of measurement](https://learningstatisticswithr.com/book/studydesign.html#scales) / [Intro to JASP](https://tomfaulkenberry.github.io/JASPbook/chapters/chapter3.pdf)                         |
 +------------+---------------------------------------------+-----------------------------------------+-------------------------+
-| July 14    | Data: Outliers                              | Intro to R                              |                         |
+| July 14    | Data: Outliers                              | Intro to R                              |[Intro to R](https://learningstatisticswithr.com/book/introR.html)                         |
 +------------+---------------------------------------------+-----------------------------------------+-------------------------+
 | **Week 3** |                                             |                                         |                         |
 +------------+---------------------------------------------+-----------------------------------------+-------------------------+
