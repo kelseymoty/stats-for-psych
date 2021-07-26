@@ -172,17 +172,17 @@ If there is something in particular you would like covered in this class (that f
 +------------+---------------------------------------------+-----------------------------------------+-------------------------+
 | **Week 3** |                                             |                                         |                         |
 +------------+---------------------------------------------+-----------------------------------------+-------------------------+
-| July 19    | Descriptives: Central Tendency & Dispersion | Descriptives: Plots 1                   |[Central tendency](https://learningstatisticswithr.com/book/descriptives.html#centraltendency) / [Why look at data?](https://socvis.co/lookatdata.html#lookatdata)                         |
+| July 19    | Descriptives: Central Tendency & Dispersion | Descriptives: Plots 1                   |[Descriptive Statistics](https://learningstatisticswithr.com/book/descriptives.html) / [Why look at data?](https://socvis.co/lookatdata.html#lookatdata)                         |
 +------------+---------------------------------------------+-----------------------------------------+-------------------------+
-| July 20    | Descriptives: Relation                      | Descriptives: Plots 2                   |[Variability](https://learningstatisticswithr.com/book/descriptives.html#var) / [Plots](https://learningstatisticswithr.com/book/graphics.html)                         |
+| July 20    | Descriptives: Relation                      | Descriptives: Plots 2                   |[Descriptives](https://learningstatisticswithr.com/book/descriptives.html) / [Plots](https://learningstatisticswithr.com/book/graphics.html)                         |
 +------------+---------------------------------------------+-----------------------------------------+-------------------------+
-| July 22    | Inferential: Samples & Populations          | Inferential: Tests Review               |[Samples and populations: See Chap 10](https://learningstatisticswithr.com/lsr-0.6.pdf)                         |
+| July 22    | Inferential: Samples & Populations          | Inferential: Tests Review               |[Samples and populations: See Chap 10](https://learningstatisticswithr.com/lsr-0.6.pdf) / [Plots](http://tidylsr.djnavarro.net/datavis.html)                        |
 +------------+---------------------------------------------+-----------------------------------------+-------------------------+
 | **Week 4** |                                             |                                         |                         |
 +------------+---------------------------------------------+-----------------------------------------+-------------------------+
-| July 26    | Inferential: *p*-values and NHST            | Inferential: Power                      |                         |
+| July 26    | Inferential: *p*-values and NHST            | Inferential: Power                      |[Hypothesis Testing](https://learningstatisticswithr.com/book/hypothesistesting.html) (You can ignore section 11.9) [Confidence Intervals](https://learningstatisticswithr.com/book/estimation.html#ci) / [Power and Effect Size](https://www.crumplab.com/statistics/thinking-about-answering-questions-with-data.html)                       |
 +------------+---------------------------------------------+-----------------------------------------+-------------------------+
-| July 27    | Inferential: One Sample *t*-test            | Inferential: One-way $\chi^2$           |                         |
+| July 27    | Inferential: One Sample *t*-test            | Inferential: One-way $\chi^2$           |[$t$-test](https://learningstatisticswithr.com/book/ttest.html) / [$\chi^2$ test](https://learningstatisticswithr.com/book/chisquare.html)                         |
 +------------+---------------------------------------------+-----------------------------------------+-------------------------+
 | July 28    | Inferential: Two Sample *t*-test            | Open Science                            |                         |
 +------------+---------------------------------------------+-----------------------------------------+-------------------------+
