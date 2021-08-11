@@ -184,19 +184,19 @@ If there is something in particular you would like covered in this class (that f
 +------------+---------------------------------------------+-----------------------------------------+-------------------------+
 | July 27    | Inferential: One Sample *t*-test            | Inferential: One-way $\chi^2$           |[$t$-test](https://learningstatisticswithr.com/book/ttest.html) / [$\chi^2$ test](https://learningstatisticswithr.com/book/chisquare.html)                         |
 +------------+---------------------------------------------+-----------------------------------------+-------------------------+
-| July 28    | Inferential: Two Sample *t*-test            | Open Science                            |                         |
+| July 28    | Inferential: Two Sample *t*-test            | Open Science                            |[$t$-test](https://learningstatisticswithr.com/book/ttest.html) / See slides for more readings on Open Science                         |
 +------------+---------------------------------------------+-----------------------------------------+-------------------------+
 | **Week 5** |                                             |                                         |                         |
 +------------+---------------------------------------------+-----------------------------------------+-------------------------+
-| August 2   | Inferential: Correlation                    | Inferential: Two-way $\chi^2$           |                         |
+| August 2   | Inferential: Correlation                    | Inferential: Two-way $\chi^2$           |[Correlation](https://learningstatisticswithr.com/book/regression.html#corrhyp) / [$\chi^2$ test](https://learningstatisticswithr.com/book/chisquare.html)                         |
 +------------+---------------------------------------------+-----------------------------------------+-------------------------+
-| August 3   | Inferential: Simple Regression              | Inferential: One-way ANOVA              |                         |
+| August 3   | Inferential: Simple Regression              | Inferential: One-way ANOVA              |[Regression](https://learningstatisticswithr.com/book/regression.html) / [One-way ANOVA](https://learningstatisticswithr.com/book/anova.html)                        |
 +------------+---------------------------------------------+-----------------------------------------+-------------------------+
-| August 4   | Inferential: Multiple Regression            | Inferential: Two-way ANOVA              |                         |
+| August 4   | Inferential: Multiple Regression            | Inferential: Two-way ANOVA              |[Regression](https://learningstatisticswithr.com/book/regression.html) / [Two-way ANOVA](https://learningstatisticswithr.com/book/anova2.html)                            |
 +------------+---------------------------------------------+-----------------------------------------+-------------------------+
 | **Week 6** |                                             |                                         |                         |
 +------------+---------------------------------------------+-----------------------------------------+-------------------------+
-| August 9   | Inferential: *t*-tests under the hood       | Inferential: Correlation under the hood |                         |
+| August 9   | Inferential: *t*-tests under the hood       | Inferential: Correlation under the hood | See relevant readings from previous weeks                         |
 +------------+---------------------------------------------+-----------------------------------------+-------------------------+
 | August 10  | Inferential: $\chi^2$ under the hood        | Inferential: Regression under the hood  |                         |
 +------------+---------------------------------------------+-----------------------------------------+-------------------------+
